@@ -11,4 +11,4 @@ order_number: 19
 - Constructed robust metrics to evaluate the trade-off between caption generality and data replication.
 - Reduced replication by 43.5% compared to the original model while maintaining the diversity and quality.
 - Submitted a paper to 2024 IEEE International Conference on Acoustics, Speech and Signal Processing(EI).
-    - [Under Review Paper](/files/Mitigate_Chenghao_Dake_Yuke_Peter_ICASSP_2024_9_12_Submission - Copy.pdf)
+    - [Under Review Paper](https://arxiv.org/abs/2309.07254)
