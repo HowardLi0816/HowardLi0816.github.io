@@ -10,5 +10,5 @@ order_number: 19
 - Developed dual fusion enhancement technique to mitigate data replication in diffusion models.
 - Constructed robust metrics to evaluate the trade-off between caption generality and data replication.
 - Reduced replication by 43.5% compared to the original model while maintaining the diversity and quality.
-- Submitted a paper to 2024 IEEE International Conference on Acoustics, Speech and Signal Processing(EI).
-    - [Under Review Paper](https://arxiv.org/abs/2309.07254)
+- Submitted a paper to 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (Accepted) (EI).
+    - [Paper 2024 ICASSP Accepted](https://arxiv.org/abs/2309.07254)
